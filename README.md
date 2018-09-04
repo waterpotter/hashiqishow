@@ -1,0 +1,2 @@
+# hashiqishow
+upload some code .
